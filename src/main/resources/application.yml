@@ -2,8 +2,8 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username:
-    password:
+    username: patrickdesa002@gmail.com
+    password: kbhp syqi cxci chui
     protocol: smtp
     properties:
       mail:
@@ -24,7 +24,7 @@ spring:
 
 envio:
   email:
-    remetente:
+    remetente: patrickdesa002@gmail.com
     nomeRemetente: 'Company Patrick'
 
 server:
